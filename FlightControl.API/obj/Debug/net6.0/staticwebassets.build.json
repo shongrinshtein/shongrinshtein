@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bmPr+9Cz42I8o3+mE6Kma9N7GUBnVuv4RpfPrkTNxKY=",
+  "Source": "FlightControl.API",
+  "BasePath": "_content/FlightControl.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
